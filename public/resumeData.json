@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name":"Semen Sokha",
+    "bio":"I am a fullstack web developer from Ukraine. I create beautiful websites by using MERN/MEVN technology. I specialize in ReactJs and VueJs so I like developing front-end with React/Vue.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "semen1579@outlook.com",
+    "skype": "live:mum19928",
+    "phone": "+380 506803329",
+    "address":{
+      "street":"Pushkinska street 106 fl. 303",
+      "city":"Kharkiv",
+      "state":"Kharkiv Oblast",
+      "zip": "61000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"github",
+        "url":"http://github.com/john20182",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"skype:live:mum19928?call",
+        "className":"fa fa-skype"
+      },
+      {
+        "name": "email",
+        "url": "mailto:semen1579@outlook.com",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Bachelor of Engineering (B.Eng.), Computer engineering | Donetsk National Technical University",
+        "degree":"Bachelor of Engineering (B.Eng.)",
+        "graduated":"April 2010",
+        "description":"I have learned about  theoretical knowledge and practical skills sufficient of Computer Engineering in this university."
+      },
+      {
+        "school":"Bachelor of Engineering (B.Eng.), Architectural engineering | Ivan Kozhedub National Air Force University",
+        "degree":"Bachelor of Engineering (B.Eng.)",
+        "graduated":"March 2008",
+        "description":"Here, I have learned about architectural engineering."
+      }
+    ],
+    "work":[
+      {
+        "company":"Kyivstar",
+        "title":"Web Developer ",
+        "years":"August 2010 - March 2016",
+        "description":"I've worked as a individual fullstack web developer. I've participated in building the website of this company. I've built up lots of experiences about MEAN/MERN/MEVN"
+      },
+      {
+        "company":"upwork.com",
+        "title":"Fullstack Web Developer",
+        "years":"Dec 2018 - Present",
+        "description":"I am the new freelancer in Upwork site."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs VueJs",
+        "level":"90%"
+      },
+      {
+        "name" : "nodeJs exPressJs",
+        "level": "80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"CSS HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Learning English",
+        "category":"The beginning site of my freelancer works",
+        "image":"nativingles-brazil.jpg",
+        "url":"https://www.nativingles.com.br/"
+      },
+      {
+        "title":"Sell & Rent",
+        "category":"The selling and renting buildings site built with React",
+        "image":"inout-group.jpg",
+        "url":"https://inout.in.ua/"
+      },
+      {
+        "title":"Excellent Furnitures",
+        "category":"Website I built for a Furniture Company in Ukraine",
+        "image":"furniture-shop.jpg",
+        "url":"https://rost.kiev.ua/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
