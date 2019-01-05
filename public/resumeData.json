@@ -12,8 +12,7 @@
       "state":"Kharkiv Oblast",
       "zip": "61000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://frozen-anchorage-96013.herokuapp.com/",
     "social":[
       {
         "name":"github",
@@ -109,7 +108,7 @@
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://frozen-anchorage-96013.herokuapp.com/"
       }
     ]
   }
