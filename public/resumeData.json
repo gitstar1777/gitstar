@@ -1,16 +1,16 @@
 {
   "main": {
-    "name":"Semen Sokha",
-    "bio":"I am a fullstack web developer from Ukraine. I create beautiful websites by using MERN/MEVN technology. I specialize in ReactJs and VueJs so I like developing front-end with React/Vue.",
+    "name":"Mario Trombetta",
+    "bio":"I'm a fullstack developer with particular focus on Python Django/Nodejs + Vuejs/ReactJs. I build attractive websites, especially love to build personal websites.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "semen1579@outlook.com",
+    "email": "mariok19928@gmail.com",
     "skype": "live:mum19928",
-    "phone": "+380 506803329",
+    "phone": "+55 38988114149",
     "address":{
-      "street":"Pushkinska street 106 fl. 303",
-      "city":"Kharkiv",
-      "state":"Kharkiv Oblast",
-      "zip": "61000"
+      "street":"RUA DAS BIQUINHAS street 367 apart. 02",
+      "city":"Diamantina",
+      "state":"State of Minas Gerais",
+      "zip": "39100-000"
     },
     "website": "https://frozen-anchorage-96013.herokuapp.com/",
     "social":[
@@ -26,7 +26,7 @@
       },
       {
         "name": "email",
-        "url": "mailto:semen1579@outlook.com",
+        "url": "mailto:mariok19928@gmail.com",
         "className": "fa fa-envelope"
       }
     ]
@@ -35,43 +35,41 @@
     "skillmessage":"",
     "education":[
       {
-        "school":"Bachelor of Engineering (B.Eng.), Computer engineering | Donetsk National Technical University",
+        "school":"Bachelor of Engineering (B.Eng.), Computer engineering | Universidade Bandeirante de São Paulo",
         "degree":"Bachelor of Engineering (B.Eng.)",
         "graduated":"April 2010",
         "description":"I have learned about  theoretical knowledge and practical skills sufficient of Computer Engineering in this university."
-      },
-      {
-        "school":"Bachelor of Engineering (B.Eng.), Architectural engineering | Ivan Kozhedub National Air Force University",
-        "degree":"Bachelor of Engineering (B.Eng.)",
-        "graduated":"March 2008",
-        "description":"Here, I have learned about architectural engineering."
       }
     ],
     "work":[
       {
-        "company":"Kyivstar",
-        "title":"Web Developer ",
-        "years":"August 2010 - March 2016",
-        "description":"I've worked as a individual fullstack web developer. I've participated in building the website of this company. I've built up lots of experiences about MEAN/MERN/MEVN"
+        "company":"Busscar",
+        "title":"IT individual",
+        "years":"February 2018 - May 2018",
+        "description":"I've worked as a individual fullstack web developer. I've participated in building the website of this company. I've made lots of experiences about MEAN/MERN/MEVN"
       },
       {
         "company":"upwork.com",
         "title":"Fullstack Web Developer",
-        "years":"Dec 2018 - Present",
+        "years":"Jan 2019 - Present",
         "description":"I am the new freelancer in Upwork site."
       }
     ],
     "skills":[
       {
-        "name":"ReactJs VueJs",
+        "name":"Python Django",
         "level":"90%"
       },
       {
-        "name" : "nodeJs exPressJs",
+        "name":"VueJs ReactJs AngularJs",
+        "level":"90%"
+      },
+      {
+        "name" : "NodeJs exPressJs",
         "level": "80%"
       },
       {
-        "name":"MongoDB",
+        "name":"Google+",
         "level":"80%"
       },
       {
@@ -87,28 +85,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Learning English",
-        "category":"The beginning site of my freelancer works",
-        "image":"nativingles-brazil.jpg",
-        "url":"https://www.nativingles.com.br/"
+        "title":"Advertising Site",
+        "category":"Advertising of Hotels, Restaurants, etc...",
+        "image":"advertise.jpg",
+        "url":"https://www.curucaca.com.br/"
       },
       {
-        "title":"Sell & Rent",
-        "category":"The selling and renting buildings site built with React",
-        "image":"inout-group.jpg",
-        "url":"https://inout.in.ua/"
-      },
-      {
-        "title":"Excellent Furnitures",
-        "category":"Website I built for a Furniture Company in Ukraine",
-        "image":"furniture-shop.jpg",
-        "url":"https://rost.kiev.ua/"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"https://frozen-anchorage-96013.herokuapp.com/"
+        "title":"Food Site",
+        "category":"Food service in Brazil, especially for German",
+        "image":"food.jpg",
+        "url":"https://www.embutidosolho.com.br/"
       }
     ]
   }

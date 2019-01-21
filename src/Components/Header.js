@@ -31,8 +31,8 @@ class Header extends Component {
       </nav>
 
       <div className  = 'profile-wrapper'>
-         <img className='profile' src = 'images/profile.jpg' alt = 'profile'></img>
-         <div className='profile-name'>Semen Sokha</div>
+         <img className='profile' src = 'images/profile.png' alt = 'profile'></img>
+         <div className='profile-name'>{name}</div>
          <ul className='social'>
             {networks}
          </ul>
